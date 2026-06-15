@@ -1,5 +1,8 @@
 # RikkaHub Skills
 
+**🌐 語言切換 | [简体中文](README.md) | [English](README.en.md)**
+
+
 > 🤖 39 個 AI Agent 技能包，專為 RikkaHub 優化
 
 ## 📦 技能列表

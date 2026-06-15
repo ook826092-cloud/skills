@@ -2,6 +2,8 @@
 
 > 🤖 39 个 AI Agent 技能包，专为 RikkaHub 优化
 
+**🌐 语言切换 | [English](README.en.md) | [繁體中文](README.zh-Hant.md)**
+
 ## 📦 技能列表
 
 | # | 名称 | 说明 |
@@ -78,7 +80,12 @@ skills/
 ├── ai-video-generator/
 │   └── SKILL.md
 ├── ... 其他技能
-└── README.md
+├── LICENSE              # MIT 许可证（英文）
+├── LICENSE-zh-Hans      # MIT 许可证（简体中文）
+├── LICENSE-zh-Hant      # MIT 许可证（繁体中文）
+├── README.md            # 本文档（简体中文）
+├── README.en.md         # English
+└── README.zh-Hant.md    # 繁體中文
 ```
 
 ## ⚠️ 注意事项
@@ -95,7 +102,9 @@ skills/
 
 ## 📄 许可证
 
-MIT License
+MIT License - 详见 [LICENSE](LICENSE)
+
+中文版：[LICENSE-zh-Hans](LICENSE-zh-Hans) | 繁體中文：[LICENSE-zh-Hant](LICENSE-zh-Hant)
 
 ---
 

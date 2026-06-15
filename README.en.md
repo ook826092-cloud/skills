@@ -1,5 +1,8 @@
 # RikkaHub Skills
 
+**🌐 Language | [简体中文](README.md) | [繁體中文](README.zh-Hant.md)**
+
+
 > 🤖 39 AI Agent Skills for RikkaHub
 
 ## 📦 Skills List
