@@ -1,6 +1,6 @@
 # RikkaHub Skills
 
-> 🤖 41 个 AI Agent 技能包，专为 RikkaHub 优化
+> 🤖 40 个 AI Agent 技能包，专为 RikkaHub 优化
 
 **🌐 语言切换 | [English](README.en.md) | [繁體中文](README.zh-Hant.md)**
 
@@ -9,7 +9,6 @@
 | # | 名称 | 说明 |
 |---|------|------|
 | 1 | ai-image-generator | AI 图片生成，支持 DALL-E、硅基流动、通义万相、可灵等 |
-| 2 | ai-subagent | AI 子 Agent 系统，支持多个 Agent 并行执行任务 |
 | 3 | ai-video-generator | AI 视频生成，支持 Sora、Veo、可灵、混元等 |
 | 4 | caveman | 简化复杂概念，用通俗易懂的方式解释 |
 | 5 | de-ai-ify | 去除 AI 味道，让文本更自然 |
@@ -74,7 +73,6 @@ cp -r skills/* /path/to/rikkahub/skills/
 skills/
 ├── ai-image-generator/
 │   └── SKILL.md
-├── ai-subagent/
 │   ├── SKILL.md
 │   ├── ai_subagent.py
 │   ├── ai_subagent_config.json
@@ -100,7 +98,7 @@ skills/
 
 | 日期 | 版本 | 内容 |
 |------|------|------|
-| 2026-06-15 | 1.0 | 初始版本，41 个技能 |
+| 2026-06-15 | 1.0 | 初始版本，40 个技能 |
 
 ## 📄 许可证
 

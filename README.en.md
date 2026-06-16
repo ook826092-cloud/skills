@@ -10,7 +10,6 @@
 | # | Name | Description |
 |---|------|-------------|
 | 1 | ai-image-generator | AI image generation, supports DALL-E, SiliconFlow, Tongyi Wanxiang, Kling, etc. |
-| 2 | ai-subagent | AI sub-agent system, supports multiple agents running in parallel |
 | 3 | ai-video-generator | AI video generation, supports Sora, Veo, Kling, Hunyuan, etc. |
 | 4 | caveman | Simplify complex concepts with easy-to-understand explanations |
 | 5 | de-ai-ify | Remove AI-style writing, make text more natural |
@@ -75,7 +74,6 @@ cp -r skills/* /path/to/rikkahub/skills/
 skills/
 ├── ai-image-generator/
 │   └── SKILL.md
-├── ai-subagent/
 │   ├── SKILL.md
 │   ├── ai_subagent.py
 │   ├── ai_subagent_config.json
