@@ -48,6 +48,7 @@
 | 37 | writing-shape | Writing structure and shape |
 | 38 | zhangxuefeng-perspective | Zhang Xuefeng perspective analysis |
 | 39 | zoom-out | Step back, think macroscopically |
+| 40 | multi-agent-analysis | Multi-model collaborative analysis system |
 
 ## 🚀 Usage
 

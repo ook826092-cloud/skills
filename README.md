@@ -1,6 +1,6 @@
 # RikkaHub Skills
 
-> 🤖 39 个 AI Agent 技能包，专为 RikkaHub 优化
+> 🤖 40 个 AI Agent 技能包，专为 RikkaHub 优化
 
 **🌐 语言切换 | [English](README.en.md) | [繁體中文](README.zh-Hant.md)**
 
@@ -47,6 +47,7 @@
 | 37 | writing-shape | 写作结构和形状 |
 | 38 | zhangxuefeng-perspective | 张雪峰视角分析 |
 | 39 | zoom-out | 跳出细节，宏观思考 |
+| 40 | multi-agent-analysis | 多模型协作分析系统：通过分配多个子Agent并行分析，最后整合结果给出综合判断 |
 
 ## 🚀 使用方法
 
@@ -98,7 +99,7 @@ skills/
 
 | 日期 | 版本 | 内容 |
 |------|------|------|
-| 2026-06-15 | 1.0 | 初始版本，39 个技能 |
+| 2026-06-15 | 1.0 | 初始版本，40 个技能 |
 
 ## 📄 许可证
 
