@@ -23,6 +23,7 @@
 | 12 | grill-with-docs | Deep interrogation with documentation |
 | 13 | gsap-helper | GSAP animation library assistant |
 | 14 | handoff | Compress conversations into handoff documents |
+| 15 | hu-chenfeng-skill | Hu Chenfeng perspective analysis |
 | 15 | hu-chen-feng-skill | Hu Chenfeng perspective analysis |
 | 16 | improve-codebase-architecture | Improve codebase architecture |
 | 17 | migrate-to-shoehorn | Migrate to Shoehorn framework |

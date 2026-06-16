@@ -1,6 +1,6 @@
 # RikkaHub Skills
 
-> 🤖 40 个 AI Agent 技能包，专为 RikkaHub 优化
+> 🤖 41 个 AI Agent 技能包，专为 RikkaHub 优化
 
 **🌐 语言切换 | [English](README.en.md) | [繁體中文](README.zh-Hant.md)**
 
@@ -22,6 +22,7 @@
 | 12 | grill-with-docs | 带文档的深度拷问 |
 | 13 | gsap-helper | GSAP 动画库助手 |
 | 14 | handoff | 将对话压缩成交接文档 |
+| 15 | hu-chenfeng-skill | 户晨风视角分析，消费现实主义思维框架 |
 | 15 | hu-chen-feng-skill | 胡晨枫视角分析 |
 | 16 | improve-codebase-architecture | 改进代码架构 |
 | 17 | migrate-to-shoehorn | 迁移到 Shoehorn 框架 |
@@ -99,7 +100,7 @@ skills/
 
 | 日期 | 版本 | 内容 |
 |------|------|------|
-| 2026-06-15 | 1.0 | 初始版本，40 个技能 |
+| 2026-06-15 | 1.0 | 初始版本，41 个技能 |
 
 ## 📄 许可证
 
