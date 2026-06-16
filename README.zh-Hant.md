@@ -3,7 +3,7 @@
 **🌐 語言切換 | [简体中文](README.md) | [English](README.en.md)**
 
 
-> 🤖 40 個 AI Agent 技能包，專為 RikkaHub 優化
+> 🤖 39 個 AI Agent 技能包，專為 RikkaHub 優化
 
 ## 📦 技能列表
 
@@ -23,7 +23,6 @@
 | 13 | gsap-helper | GSAP 動畫庫助手 |
 | 14 | handoff | 對話壓縮成交接文件 |
 | 15 | hu-chenfeng-skill | 戶晨風視角分析 |
-| 15 | hu-chen-feng-skill | 胡晨楓視角分析 |
 | 16 | improve-codebase-architecture | 改進程式碼架構 |
 | 17 | migrate-to-shoehorn | 遷移到 Shoehorn 框架 |
 | 18 | obsidian-vault | Obsidian 知識庫管理 |
@@ -94,7 +93,7 @@ skills/
 
 | 日期 | 版本 | 內容 |
 |------|------|------|
-| 2026-06-15 | 1.0 | 初始版本，40 個技能 |
+| 2026-06-15 | 1.0 | 初始版本，39 個技能 |
 
 ## 📄 許可證
 
